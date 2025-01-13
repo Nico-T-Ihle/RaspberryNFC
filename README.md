@@ -1,4 +1,4 @@
-# RaspberryNFC
+# Raspberry-NFC-Documentation
 
 Hier ist eine Anleitung, wie du einen RFID-Reader an einen Raspberry Pi anschließen kannst und ein einfaches Python-Skript zum Lesen und Schreiben auf RFID-Tags erstellst. In diesem Fall verwenden wir den **RC522 RFID-Reader**, der oft mit einem Raspberry Pi verwendet wird.
 
